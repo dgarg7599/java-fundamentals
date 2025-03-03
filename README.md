@@ -1,4 +1,4 @@
-# WHAT IS JAVA?
+# JAVA
 Java is a high-level, object-oriented programming language that was originally developed by sun microsystems and is now owned by oracle corporation.
 
 # WHY JAVA IS HIGH-LEVEL PROGRAMMING LANGUAGE?
